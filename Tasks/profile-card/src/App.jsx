@@ -5,14 +5,9 @@ function App() {
 
 
   return (
-   
-    <div>
+    
+    
       <ProfileCard />
-
-    </div>
-
-      
-      
  
   )
 }
