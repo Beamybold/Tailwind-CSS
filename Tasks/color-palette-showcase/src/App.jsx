@@ -1,5 +1,5 @@
 import React from "react";
-import ColorPaletteShowcase from "./ColorPaletteShowcase";
+import ColorPaletteShowcase from "./ColorPalette";
 
 function App() {
   return (

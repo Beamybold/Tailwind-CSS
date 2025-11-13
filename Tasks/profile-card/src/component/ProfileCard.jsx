@@ -14,7 +14,7 @@ function ProfileCard() {
      
       <div className="relative px-6 -mt-16">
         <div className="w-32 h-32 bg-gray-300 rounded-full  mx-auto overflow-hidden">
-          <img src={headshot} alt="Tech sis" />s
+          <img src={headshot} alt="Tech sis" />
         </div>
       </div>
       
